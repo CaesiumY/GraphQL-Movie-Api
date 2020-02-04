@@ -1,0 +1,13 @@
+{
+  "name": "GraphQL-Movie-Api",
+  "version": "1.0.0",
+  "description": "making movie api with graphql",
+  "main": "index.js",
+  "repository": "https://github.com/CaesiumY/GraphQL-Movie-Api.git",
+  "author": "caesiumy <mn0658@naver.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
