@@ -1,5 +1,5 @@
 {
-  "name": "GraphQL-Movie-Api",
+  "name": "graphql-movie-app",
   "version": "1.0.0",
   "description": "making movie api with graphql",
   "main": "index.js",
@@ -9,5 +9,8 @@
   "private": false,
   "dependencies": {
     "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon"
   }
 }
